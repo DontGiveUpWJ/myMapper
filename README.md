@@ -1,2 +1,2 @@
 # myMapper
-springboot与通用mapper的集合使用，数据库连接与密码自行修改。
+springboot与通用mapper的集合使用，数据库连接与密码自行修改。使用出现问题欢迎加QQ:651136439 备注git下载
